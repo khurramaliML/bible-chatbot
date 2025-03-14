@@ -1,0 +1,8 @@
+langchain
+langchain_core
+langchain_community
+pypdf
+langserve[all]
+faiss-cpu
+pyngrok
+pymongo
