@@ -1,4 +1,4 @@
-# FastAPI Bible API Documentation
+# FastAPI Bible Chatbot API
 
 **Version**: 0.1  
 **Description**: This API provides a simple interface for querying a Bible database using natural language. It leverages advanced language models to generate answers and maintains a chat history for each user session.
